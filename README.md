@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bensonheimer992</h1>
 <h3 align="center">Im a Developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bensonheimer992" alt="bensonheimer992" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bensonheimer992&theme=onedark" alt="bensonheimer992" /></a> </p>
 
 - 🔭 I’m currently working on [Bencraft](https://bencraft.xyz)
 
