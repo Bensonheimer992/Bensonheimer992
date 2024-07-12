@@ -16,4 +16,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://skillicons.dev/icons?i=azure,bash,cloudflare,debian,discord,docker,electron,git,github,gitlab,gradle,grafana,html,htmx,idea,java,js,linux,mysql,nginx,npm,php,powershell,prometheus,pycharm,py,raspberrypi,react,sqlite,tailwind,ubuntu,vercel,visualstudio,vscode,windows,wordpress)
+![](https://skillicons.dev/icons?i=azure,bash,cloudflare,debian,discord,docker,electron,git,github,gitlab,gradle,grafana,html,htmx,idea,java,js,linux,mysql,nginx,npm,php,powershell,prometheus,pycharm,py,raspberrypi,react,sqlite,tailwind,ubuntu,vercel,visualstudio,vscode,windows,wordpress&perline=5)
