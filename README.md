@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bensonheimer992</h1>
 <h3 align="center">Im a Developer from Germany</h3>
 
-- 🔭 I’m currently working on [Bencraft](https://bencraft.xyz)
+- 🔭 I’m currently working on [Alaxus](https://alaxus.xyz)
 
 - 👨‍💻 All of my projects are available at [https://my.bencraft.xyz](https://my.bencraft.xyz)
 
