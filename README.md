@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bensonheimer992</h1>
 <h3 align="center">Im a Developer from Germany</h3>
 
-- 🟠 I moved some of my repos to my [GitLab](https://git.bencraft.cloud)
+> [!IMPORTANT]  
+> Im moving some things to my [GitLab](https://git.bencraft.cloud/)
 
 - 🔭 I’m currently working on [Alaxus](https://alaxus.xyz)
 
